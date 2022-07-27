@@ -1,6 +1,6 @@
 <h1>Type Racer Bot</h1>
 
-Download:
+Download Steps:
 
 Unzip files
 
